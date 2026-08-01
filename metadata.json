@@ -1,0 +1,6 @@
+{
+  "name": "Partner Jalan - Biro Perjalanan & Paket Wisata",
+  "description": "Landing page resmi Partner Jalan - Penyedia paket open trip dan private trip Semarang, Purwokerto, Dieng, Yogyakarta, Jakarta-Bogor, Bali, dan Lombok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
